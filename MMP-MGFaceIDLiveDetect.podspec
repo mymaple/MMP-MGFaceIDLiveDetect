@@ -94,7 +94,7 @@ SDK说明：SDK支持的系统最低要求是iOS 8.0，只支持真机架构(arm
   #
 
   #写下你代码的位置, 也可以在后面指定.{h,m,swift},如果多个逗号隔开,swift提供对外的class与method建议加上public
-  spec.source_files  = "sdk/framework/*"
+  spec.source_file  = "sdk/framework/*"
   #排除的文件.
   #spec.exclude_files = "Classes/Exclude"
 
