@@ -109,7 +109,7 @@ SDK说明：SDK支持的系统最低要求是iOS 8.0，只支持真机架构(arm
   #  non-essential files like tests, examples and documentation.
   #
 
-  spec.resources = "sdk/resource/*"
+  spec.resource = "sdk/resource/*"
 
   # spec.resource  = "icon.png"
   # spec.resources = "Resources/*.png"
